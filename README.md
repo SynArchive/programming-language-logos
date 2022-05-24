@@ -1,5 +1,7 @@
 # Programming Language Logos
 
+My end goal is to add a full quality SVG file for every language (and old versions too)
+
 |Language|Logo|
 |:--|:--:|
 |Ada|<img src="/src/ada.svg" style="height: 100px;"/>|
