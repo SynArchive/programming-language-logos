@@ -2,4 +2,4 @@
 
 |Language|Logo|
 |:--|:--:|
-|Ruby|<img src="/src/img/ruby.svg" alt="Ruby" style="height: 100px; width:100px;"/>|
+|Ruby|<img src="/src/ruby.svg" alt="Ruby" style="height: 100px; width:100px;"/>|
