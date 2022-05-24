@@ -3,7 +3,7 @@
 My end goal is to add a full quality SVG file for every language (and old versions too)
 
 |Language|Logo|
-|:--|:--:|
+|:--|:--|
 |Ada|<img src="/src/ada.svg" style="height: 100px;"/>|
 |C|<img src="/src/c.svg" style="height: 100px;"/><img src="/src/c_full.svg" style="height: 100px;"/>|
 |C++|<img src="/src/cpp.svg" style="height: 100px;"/>|
