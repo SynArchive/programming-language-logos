@@ -1,5 +1,12 @@
 # Main programming languages
 
+<style>
+    .heatMap th { background-color: #ffffffcc; }
+    .heatMap tr { background-color: #ffffffcc; }
+</style>
+
+<div class="heatMap">
+
 |Entity|Logos|
 |:--|:--|
 |Ada|<img src="/src/ada.svg" style="height: 100px;"/>|
