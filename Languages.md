@@ -10,7 +10,7 @@
 |Clean|<img src="/src/clean.svg" style="height: 100px;"/>|
 |Clojure|<img src="/src/clojure.svg" style="height: 100px;"/>|
 |Crystal|<img src="/src/crystal.svg" style="height: 100px;"/>|
-|C#|<img src="/src/cs_wordmark.svg" style="height: 100px;"/> <img src="/src/csharp.svg" style="height: 100px;"/>|
+|C#|<img src="/src/cs_wordmark.svg" style="height: 100px;"/>|
 |D|<img src="/src/d.svg" style="height: 100px;"/>|
 |Dart|<img src="/src/dart.svg" style="height: 100px;"/>|
 |Erlang|<img src="/src/erlang.svg" style="height: 100px;"/>|
